@@ -1,5 +1,4 @@
 # printf project
 I am lazy: Says the collaborator.
-collaboration done.
-
 My partner is awesome
+collaboration done.
